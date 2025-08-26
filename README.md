@@ -42,7 +42,7 @@ This project showcases my skills, projects, and contact information in a clean a
 
 ## 🧑‍💻 Author
 **Your Name**  
-- GitHub: [Adam_KASSIS](https://github.com/Adam-KASSIS)  
+- GitHub: [Adam-KASSIS](https://github.com/Adam-KASSIS)  
 - LinkedIn: [ADAM KASSIS](https://www.linkedin.com/in/adam-kassis-036569326/)  
 
 ---
