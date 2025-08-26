@@ -35,13 +35,14 @@ This project showcases my skills, projects, and contact information in a clean a
 ---
 
 ## 📸 Preview
-(Add a screenshot or GIF of your portfolio here)
+<img width="1898" height="887" alt="image" src="https://github.com/user-attachments/assets/672ea1dd-078f-41c9-b5a3-2ccb071f3ab6" />
+
 
 ---
 
 ## 🧑‍💻 Author
 **Your Name**  
-- GitHub: [yourusername](https://Adam_KASSIS)  
-- LinkedIn: [yourlinkedin](https://www.linkedin.com/in/adam-kassis-036569326/)  
+- GitHub: [Adam_KASSIS](https://github.com/Adam-KASSIS)  
+- LinkedIn: [ADAM KASSIS](https://www.linkedin.com/in/adam-kassis-036569326/)  
 
 ---
