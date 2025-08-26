@@ -6,7 +6,7 @@ This project showcases my skills, projects, and contact information in a clean a
 ---
 
 ## 🚀 Live Demo
-🔗 [View Portfolio](https://your-live-demo-link.com)
+🔗 [View Portfolio](https://portfolio-delta-mauve-58.vercel.app/)
 
 ---
 
