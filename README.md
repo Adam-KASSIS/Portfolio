@@ -22,7 +22,7 @@ This project showcases my skills, projects, and contact information in a clean a
 ## 🛠️ Tech Stack
 - **HTML5** – structure  
 - **CSS3** – custom styling, animations, responsive design  
-- **JavaScript (optional)** – interactivity  
+- **JavaScript** – interactivity  
 
 ---
 
